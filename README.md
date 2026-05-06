@@ -17,7 +17,7 @@ CourtIQ is an AI-powered application that predicts NBA player performance using 
 - Deployed using Streamlit for real-time interaction
 
 🔗 GitHub: https://github.com/GregLivin/Court-IQ-Production  
-🔗 Live App: [PASTE YOUR STREAMLIT LINK]
+🔗 Live App: https://greglivin-court-iq-production-app-dev-stpjhs.streamlit.app/
 
 ---
 
@@ -60,3 +60,39 @@ CourtIQ is an AI-powered application that predicts NBA player performance using 
 
 - Email: egr.cheng@gmail.com
 - LinkedIn: https://www.linkedin.com/in/erwin-cheng-050140164/
+
+---
+
+# Project Structure
+
+AI-Portfolio/
+│── README.md
+│
+├── projects/
+│   └── court-iq/
+│       ├── README.md
+│       ├── app.py
+│       ├── requirements.txt
+│       ├── src/
+│       ├── models/
+│
+├── assignments/
+│   ├── phase1-proposal/
+│   ├── phase2-data-pipeline/
+│   ├── phase3-model/
+│   ├── phase4-integration/
+│   └── phase5-final/
+│
+├── notes/
+│   ├── machine-learning.md
+│   ├── data-engineering.md
+│   ├── model-evaluation.md
+│   └── deployment.md
+│
+├── resources/
+│   ├── useful-links.md
+│   └── tools.md
+│
+└── assets/
+    ├── screenshots/
+    └── diagrams/
