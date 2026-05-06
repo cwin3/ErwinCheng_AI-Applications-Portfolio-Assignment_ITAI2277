@@ -2,35 +2,36 @@
 
 # AI Applications Portfolio – Erwin Cheng
 
-This repository showcases my work in AI and Machine Learning, including projects, assignments, and key concepts learned throughout the course.
+This repository showcases my work in AI and Machine Learning, including projects, assignments, and key concepts I learned throughout the course.
 
 ---
 
 ## 🚀 Featured Project
 
 ### CourtIQ – NBA Player Prediction System
-AI-powered system that predicts NBA player performance using machine learning and real-time data.
 
-- Built full ML pipeline (data → features → model → deployment)
+CourtIQ is an AI-powered application that predicts NBA player performance using machine learning and real-time data.
+
+- Built a full ML pipeline (data collection → feature engineering → model → deployment)
 - Uses Gradient Boosting for predictions
-- Deployed with Streamlit
+- Deployed using Streamlit for real-time interaction
 
 🔗 GitHub: https://github.com/GregLivin/Court-IQ-Production  
-🔗 Live App: [your link]
+🔗 Live App: [PASTE YOUR STREAMLIT LINK]
 
 ---
 
 ## 📂 Repository Contents
 
 ### 📁 Projects
-- CourtIQ (NBA prediction system)
+- CourtIQ – End-to-end NBA prediction system
 
 ### 📁 Assignments
-- Phase 1 – Proposal
-- Phase 2 – Data Pipeline & EDA
-- Phase 3 – Model Development
-- Phase 4 – System Integration
-- Phase 5 – Final Deployment
+- Phase 1 – Proposal  
+- Phase 2 – Data Pipeline & EDA  
+- Phase 3 – Model Development  
+- Phase 4 – System Integration  
+- Phase 5 – Final Deployment  
 
 ### 📁 Notes
 - Machine Learning concepts
@@ -40,7 +41,7 @@ AI-powered system that predicts NBA player performance using machine learning an
 
 ### 📁 Resources
 - Tools and libraries used
-- Helpful learning resources and documentation
+- Helpful learning resources
 
 ---
 
@@ -57,5 +58,5 @@ AI-powered system that predicts NBA player performance using machine learning an
 
 ## 📬 Contact
 
-- Email: [your email]
-- LinkedIn: [optional]
+- Email: egr.cheng@gmail.com
+- LinkedIn: https://www.linkedin.com/in/erwin-cheng-050140164/
